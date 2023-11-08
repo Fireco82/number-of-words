@@ -1,11 +1,6 @@
+import java.io.FileWriter; import java.io.IOException; import java.util.HashMap; import java.util.Map;
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.HashMap;
-import java.util.Map;
-
+import java.io.BufferedWriter; import java.io.FileReader;
 public class wordcounter {
     public static void main(String[] args) {
         try {
